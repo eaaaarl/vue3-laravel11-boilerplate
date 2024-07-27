@@ -8,7 +8,7 @@ Web-client
 
 Api-service
 - laravel/passport
-- 
+
 ## Structure
 
 | Codebase              |      Description          |
