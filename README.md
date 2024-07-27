@@ -1,13 +1,14 @@
 # Boilerplate Vue 3 - Laravel 11 
 
 ## Setup
-- Web-client
+Web-client
 - ky http
 - admin-lte@3.2
 - clsx
 
-- Api-service
+Api-service
 - laravel/passport
+- 
 ## Structure
 
 | Codebase              |      Description          |
